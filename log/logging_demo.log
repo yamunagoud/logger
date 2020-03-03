@@ -1,0 +1,16 @@
+2020-03-03 22:14:26 DEBUG App:15 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-03-03 22:15:20 DEBUG App:15 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-03-03 22:15:25 DEBUG App:20 -Enter Principle
+2020-03-03 22:15:25 DEBUG App:22 -Enter Time Period(in years)
+2020-03-03 22:15:26 DEBUG App:24 -Enter Rate Of Interest
+2020-03-03 22:15:27 DEBUG App:33 -Result of simple interest is : 0.01
+2020-03-03 22:15:27 DEBUG App:42 -Enter 1 to conitnue and 0 to exit
+2020-03-03 22:15:29 DEBUG App:15 -Enter 0 if you want to calculate Simple Interest and 1 if you want to calculate Compound Interest
+2020-03-03 22:27:12 DEBUG App:12 -Menu for Material standards : 
+2020-03-03 22:27:12 DEBUG App:13 -1->Standard Materials
+2020-03-03 22:27:12 DEBUG App:14 -2->Above Standard Materials
+2020-03-03 22:27:12 DEBUG App:15 -3->High Standard Materials
+2020-03-03 22:27:12 DEBUG App:16 -4->High Standard Materials and fully automated home
+2020-03-03 22:27:12 DEBUG App:17 -Enter your choice
+2020-03-03 22:27:18 DEBUG App:19 -Enter total area of house(square feets)
+2020-03-03 22:27:22 DEBUG App:23 -Total cost : 3600.0
